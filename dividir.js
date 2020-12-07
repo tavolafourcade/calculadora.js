@@ -7,4 +7,4 @@ function dividir(n1,n2){
 
 module.export = dividir;
 
-console.log(dividir(5,0))
+// console.log(dividir(5,1))
