@@ -5,6 +5,6 @@ function dividir(n1,n2){
   return n1 / n2;
 }
 
-module.export = dividir;
+module.exports.dividir = dividir;
 
 // console.log(dividir(5,1))

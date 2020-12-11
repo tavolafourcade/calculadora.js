@@ -3,4 +3,4 @@ let sumar = function(n1,n2){
 }
 
 
-module.export = sumar;
+module.exports.sumar = sumar;
