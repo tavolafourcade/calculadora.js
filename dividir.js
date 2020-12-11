@@ -3,8 +3,9 @@ function dividir(n1,n2){
     return "No se puede dividir por cero"
   }
   return n1 / n2;
-}
 
-module.exports.dividir = dividir;
+}
+//module.exports.dividir = dividir;
+module.exports = dividir;
 
 // console.log(dividir(5,1))
